@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300&display=swap');
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    margin: 0%;
+}
+
+div.aboutme {
+    width: 100%;
+    background-color: rgba(241, 241, 241, 0);
+    padding: 0px 45px;
+}
+div.Header {
+    width: 100%;
+    background-color: rgba(39, 50, 63, 0.973);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 12px 25px;
+    margin-bottom: 10px;
+}
+
+h1.username {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    color: #101316;
+    padding-left: 25px;
+}
+
+b.h1-text-next-to-aboutme {
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    font-size: 28px;
+}
+
+a.button-top-bar {
+    color: aliceblue; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-size: 30px; 
+    font-weight: 900; 
+    margin-right: 45px;
+}
+
+a.button-top-bar:hover {
+    color: rgb(217, 226, 233);
+    text-shadow: 0 0 3px #000000c7, 0 0 32px #000000c7;
+}
